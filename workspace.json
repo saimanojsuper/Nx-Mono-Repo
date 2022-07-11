@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "nx-resizable-ui": "apps/nx-resizable-ui",
+    "nx-resizable-ui-e2e": "apps/nx-resizable-ui-e2e"
+  }
+}
