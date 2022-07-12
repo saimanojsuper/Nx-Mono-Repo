@@ -2,7 +2,9 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "card-api": "apps/card-api",
     "nx-resizable-ui": "apps/nx-resizable-ui",
-    "nx-resizable-ui-e2e": "apps/nx-resizable-ui-e2e"
+    "nx-resizable-ui-e2e": "apps/nx-resizable-ui-e2e",
+    "shared-ui": "libs/shared-ui"
   }
 }

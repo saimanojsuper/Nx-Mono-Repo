@@ -21,7 +21,8 @@
       "defaultConfiguration": "development",
       "options": {
         "buildTarget": "nx-resizable-ui:build",
-        "dev": true
+        "dev": true,
+        "proxyConfig": "apps/nx-resizable-ui/proxy.conf.json"
       },
       "configurations": {
         "development": {
